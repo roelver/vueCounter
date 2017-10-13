@@ -1,4 +1,2 @@
-# counter
-
-> A simple counter in Vuejs
-
+# vueCounter
+A simple counter in Vue.js
