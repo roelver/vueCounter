@@ -1,11 +1,11 @@
 <template>
-<div style="text-align:center">
-  <h1>
-    Vuejs Counter: {{counter}}
-  </h1>
+  <div style="text-align:center">
+    <h1>
+      Vuejs Counter: {{counter}}
+    </h1>
     <button @click="modifyCounter(1)">+</button>
     <button @click="modifyCounter(-1)">-</button>
-</div>
+  </div>
 </template>
 
 <script>
